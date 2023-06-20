@@ -28,3 +28,5 @@ Removes "More from you tube" shelf"
 To add this go into the settings of Ublock and go under "My filters" and you can copy the code from the TXT document into it
 
 Have a nice day and happen browseing you tube
+
+Also if you want me to add any extra filters into the repo just create a Issue and i will look into it
