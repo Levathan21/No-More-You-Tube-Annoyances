@@ -23,3 +23,8 @@ Removes Shorts from channel pages
 Removes Fundraiser from video player/You Tube Channel Page
 
 Removes "More from you tube" shelf"
+
+
+To add this go into the settings of Ublock and go under "My filters" and you can copy the code from the TXT document into it
+
+Have a nice day and happen browseing you tube
