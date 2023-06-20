@@ -9,10 +9,17 @@ Most things that are gone are useless icons/options that most people dont use an
 This is what it removes:
 
 Remove YT Thumnails (Home Page/Videos Tab ONLY)
+
 Hide Shorts Tab (Home Page) and also community posts from home page
+
 Hide Channel Banners (Also hides channel links)
+
 Removes "Our Members Banner"
-Remove Join option
+
+Removes Join option
+
 Removes Shorts from channel pages
-Remove Fundraiser from video player/You Tube Channel Page
-Remove "More from you tube" shelf"
+
+Removes Fundraiser from video player/You Tube Channel Page
+
+Removes "More from you tube" shelf"
