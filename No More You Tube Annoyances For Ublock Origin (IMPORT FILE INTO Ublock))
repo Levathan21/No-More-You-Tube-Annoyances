@@ -1,0 +1,25 @@
+! Remove YT Thumnails (Home Page/Videos Tab ONLY)
+www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
+www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope
+
+
+!Hide Shorts Tab (Home Page)
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+
+!Hide shorts option on you tube channel pages
+www.youtube.com##tp-yt-paper-tab.ytd-c4-tabbed-header-renderer.style-scope:nth-of-type(3)
+
+!Hide Banner
+www.youtube.com##div.ytd-c4-tabbed-header-renderer.style-scope.banner-visible-area
+
+!Removes "Our Members Banner"
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-recognition-shelf-renderer.style-scope
+
+!Remove Join option
+www.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__fill
+www.youtube.com##.yt-spec-button-shape-next--size-m.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline.yt-spec-button-shape-next > yt-touch-feedback-shape > .yt-spec-touch-feedback-shape--touch-response.yt-spec-touch-feedback-shape > .yt-spec-touch-feedback-shape__stroke
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope > yt-button-shape
+
+!Removes Shorts from channel pages
+www.youtube.com##.ytd-reel-shelf-renderer.style-scope > .yt-horizontal-list-renderer.style-scope
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-reel-shelf-renderer.style-scope
