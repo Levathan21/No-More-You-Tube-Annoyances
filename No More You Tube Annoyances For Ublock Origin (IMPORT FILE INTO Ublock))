@@ -30,3 +30,9 @@ www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-ypc.
 
 ! Remove "More from you tube" shelf"
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! Removes Random Survays
+www.youtube.com###star-survey
+
+! Removes Section dividers (Home Page)
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
