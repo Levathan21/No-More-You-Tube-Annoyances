@@ -1,6 +1,6 @@
-! Remove YT Thumnails (Home Page/Videos Tab ONLY)
-www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
-www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope
+! Remove YT Thumnails off by defult (Home Page/Videos Tab ONLY)
+! www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope > .ytd-thumbnail.style-scope.inline-block.yt-simple-endpoint
+! www.youtube.com##ytd-thumbnail.ytd-rich-grid-media.style-scope
 
 !Hide Shorts Tab (Home Page) and also community posts from home page
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
