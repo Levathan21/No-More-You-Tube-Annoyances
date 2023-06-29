@@ -34,5 +34,8 @@ www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-o
 ! Removes Random Survays
 www.youtube.com###star-survey
 
+! Removes Movie Suggestions
+www.youtube.com##ytd-compact-movie-renderer.ytd-item-section-renderer.style-scope > .ytd-compact-movie-renderer.style-scope
+
 ! Removes Section dividers (Home Page)
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
