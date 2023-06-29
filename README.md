@@ -8,7 +8,7 @@ Most things that are gone are useless icons/options that most people dont use an
 
 This is what it removes:
 
-Remove YT Thumnails (Home Page/Videos Tab ONLY)
+Remove YT Thumnails (Disabled) (Home Page/Videos Tab ONLY)
 
 Hide Shorts Tab (Home Page) and also community posts from home page
 
