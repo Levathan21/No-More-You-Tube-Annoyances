@@ -26,6 +26,8 @@ Removes "More from you tube" shelf"
 
 Removes YouTube Survays that sometimes appear
 
+Removes Movie suggestions
+
 
 To add this go into the settings of Ublock and go under "My filters" and you can copy the code from the TXT document into it
 
