@@ -37,5 +37,8 @@ www.youtube.com###star-survey
 ! Removes Movie Suggestions
 www.youtube.com##ytd-compact-movie-renderer.ytd-item-section-renderer.style-scope > .ytd-compact-movie-renderer.style-scope
 
+! Removes Join Option Popup (In Video Player)
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup-container.style-scope
+
 ! Removes Section dividers (Home Page)
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
