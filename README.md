@@ -28,6 +28,7 @@ Removes YouTube Survays that sometimes appear
 
 Removes Movie suggestions
 
+Removes Join Option Pop-up in video player
 
 To add this go into the settings of Ublock and go under "My filters" and you can copy the code from the TXT document into it
 
