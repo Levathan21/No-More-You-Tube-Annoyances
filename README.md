@@ -30,6 +30,8 @@ Removes Movie suggestions
 
 Removes Join Option Pop-up in video player
 
+Removes Context pannel in video player page
+
 To add this go into the settings of Ublock and go under "My filters" and you can copy the code from the TXT document into it
 
 Have a nice day and happen browseing you tube
