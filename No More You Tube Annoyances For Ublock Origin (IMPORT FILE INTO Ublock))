@@ -42,3 +42,8 @@ www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope > .ytd-popup
 
 ! Removes Section dividers (Home Page)
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+
+! Removes the context pannel on video player
+www.youtube.com##.ytd-info-panel-content-renderer.style-scope.content
+www.youtube.com##.ytd-info-panel-container-renderer.style-scope.header
+www.youtube.com##.ytd-info-panel-container-renderer.style-scope.divider
